@@ -19,5 +19,5 @@ __Cleaning Up the Data :__
 
 - [x] With the data preprocessed, I focused on the specific parts that were most relevant to what I wanted to achieve. I filtered out certain rows or selected specific columns based on the criteria that aligned with my objectives. This helped me streamline my dataset to the core information I needed.
 
-__Creating Visualizations:__
+__Creating Visualizations :__
 - [x] With the data well-prepared, I entered the visualization phase. I utilized libraries like Plotly, Matplotlib, and Seaborn to craft a variety of visualizations. These included interactive plots, line charts, bar graphs, scatter plots, and more. Through visualizations, I began to observe patterns and insights.
