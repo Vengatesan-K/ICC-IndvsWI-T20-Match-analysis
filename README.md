@@ -21,3 +21,33 @@ __Cleaning Up the Data :__
 
 __Creating Visualizations :__
 - [x] With the data well-prepared, I entered the visualization phase. I utilized libraries like Plotly, Matplotlib, and Seaborn to craft a variety of visualizations. These included interactive plots, line charts, bar graphs, scatter plots, and more. Through visualizations, I began to observe patterns and insights.
+
+__Match Report__
+
+> WORM CHART
+
+![newplot (13)](https://github.com/Vengatesan-K/PDF-Password/assets/128688827/1c0db3a0-1dca-4355-b791-55b978262bd2)
+
+> MANHATTAN CHART
+
+![Screenshot 2023-08-25 104013](https://github.com/Vengatesan-K/PDF-Password/assets/128688827/97f8813c-dde3-4b0d-9d91-0a711bbcea93)
+
+> Batting Comparison
+
+![newplot (14)](https://github.com/Vengatesan-K/PDF-Password/assets/128688827/fa19ce8c-bcc0-4b8c-bcd0-b18c296e7aeb)
+
+> Bowling Comparison
+
+![Screenshot 2023-08-25 104110](https://github.com/Vengatesan-K/PDF-Password/assets/128688827/938f7da5-717c-46f8-92c4-0d193bed1aab)
+
+> Fours and Sixes
+
+![newplot (15)](https://github.com/Vengatesan-K/PDF-Password/assets/128688827/322b015d-dec3-4d90-b5de-e3191bf0a449)
+
+> Runs Distribution
+
+![Screenshot 2023-08-25 104137](https://github.com/Vengatesan-K/PDF-Password/assets/128688827/c0e782d8-6171-4fb7-b568-deec1b90a458)
+
+> Strikerate Comparison
+
+![Screenshot 2023-08-25 104151](https://github.com/Vengatesan-K/PDF-Password/assets/128688827/88893610-c6e0-45ba-a8bf-95c69d61c4cf)
