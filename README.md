@@ -2,7 +2,7 @@
 Data Collection and Preprocessing for visualization with python
 
 
-> Data was retrieved from the ESPN Cricinfo webpage using Beautiful Soup. Following data extraction, a thorough cleansing process was undertaken to eliminate redundant elements, and data types were optimized for the purpose of generating a comprehensive report card. The intention is to subsequently share this refined report card on LinkedIn, highlighting the analytical process involved.
+> Data was retrieved from the ESPN Cricinfo webpage using Beautiful Soup. Following data extraction, a thorough cleansing process was undertaken to eliminate redundant elements, and data types were optimized for the purpose of generating a comprehensive report card.
 
 
 __Data Collection from a Webpage :__
