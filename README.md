@@ -26,7 +26,8 @@ __Match Report__
 
 > WORM CHART
 
-![newplot (13)](https://github.com/Vengatesan-K/PDF-Password/assets/128688827/1c0db3a0-1dca-4355-b791-55b978262bd2)
+![263172125-1c0db3a0-1dca-4355-b791-55b978262bd2](https://github.com/Vengatesan-K/ICC-IndvsWI-T20-Match-analysis/assets/128688827/8283589c-7aa6-45b5-825c-e5d0e476a542)
+
 
 > MANHATTAN CHART
 
