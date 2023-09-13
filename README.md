@@ -31,24 +31,30 @@ __Match Report__
 
 > MANHATTAN CHART
 
-![Screenshot 2023-08-25 104013](https://github.com/Vengatesan-K/PDF-Password/assets/128688827/97f8813c-dde3-4b0d-9d91-0a711bbcea93)
+![263172279-97f8813c-dde3-4b0d-9d91-0a711bbcea93](https://github.com/Vengatesan-K/ICC-IndvsWI-T20-Match-analysis/assets/128688827/7d2dde1c-a811-44e2-a399-707da1f027f5)
+
 
 > Batting Comparison
 
-![newplot (14)](https://github.com/Vengatesan-K/PDF-Password/assets/128688827/fa19ce8c-bcc0-4b8c-bcd0-b18c296e7aeb)
+![263172436-fa19ce8c-bcc0-4b8c-bcd0-b18c296e7aeb](https://github.com/Vengatesan-K/ICC-IndvsWI-T20-Match-analysis/assets/128688827/cc218a1f-385f-45b2-b8e7-ad27396ea93c)
+
 
 > Bowling Comparison
 
-![Screenshot 2023-08-25 104110](https://github.com/Vengatesan-K/PDF-Password/assets/128688827/938f7da5-717c-46f8-92c4-0d193bed1aab)
+![263172544-938f7da5-717c-46f8-92c4-0d193bed1aab](https://github.com/Vengatesan-K/ICC-IndvsWI-T20-Match-analysis/assets/128688827/d2aaa32e-313a-4ec6-aa5a-c44a4e609946)
+
 
 > Fours and Sixes
 
-![newplot (15)](https://github.com/Vengatesan-K/PDF-Password/assets/128688827/322b015d-dec3-4d90-b5de-e3191bf0a449)
+![263172753-322b015d-dec3-4d90-b5de-e3191bf0a449](https://github.com/Vengatesan-K/ICC-IndvsWI-T20-Match-analysis/assets/128688827/18344876-308b-4857-8860-e9fbcb856873)
+
 
 > Runs Distribution
 
-![Screenshot 2023-08-25 104137](https://github.com/Vengatesan-K/PDF-Password/assets/128688827/c0e782d8-6171-4fb7-b568-deec1b90a458)
+![263172854-c0e782d8-6171-4fb7-b568-deec1b90a458](https://github.com/Vengatesan-K/ICC-IndvsWI-T20-Match-analysis/assets/128688827/b5ccb4cf-d5e8-4356-b232-002abc917307)
+
 
 > Strikerate Comparison
 
-![Screenshot 2023-08-25 104151](https://github.com/Vengatesan-K/PDF-Password/assets/128688827/88893610-c6e0-45ba-a8bf-95c69d61c4cf)
+![263172923-88893610-c6e0-45ba-a8bf-95c69d61c4cf](https://github.com/Vengatesan-K/ICC-IndvsWI-T20-Match-analysis/assets/128688827/2ed83ad6-2f1f-4ae0-b133-53a93b356286)
+
